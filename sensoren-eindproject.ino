@@ -10,8 +10,8 @@
 #include <ESP32Servo.h>
 
 char auth[] = "xUKmUjrXs9N9cv45wWvdi1aNt7BXwJDn";
-char ssid[] = "embed";
-char pass[] = "weareincontrol";
+char ssid[] = "Your Wifi";
+char pass[] = "Wifi password";
 
 #define SOIL_PIN 4
 #define WATER_PIN 5
