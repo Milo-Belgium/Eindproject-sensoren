@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID "TMPL5CYzdexes"
-#define BLYNK_TEMPLATE_NAME "sensoren eindproject"
+#define BLYNK_TEMPLATE_ID ".........."
+#define BLYNK_TEMPLATE_NAME "............"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -9,7 +9,7 @@
 #include <BH1750.h>
 #include <ESP32Servo.h>
 
-char auth[] = "xUKmUjrXs9N9cv45wWvdi1aNt7BXwJDn";
+char auth[] = "...........";
 char ssid[] = "Your Wifi";
 char pass[] = "Wifi password";
 
